@@ -20,7 +20,7 @@ The model is trained on an excerpt from [DBPedia](https://www.kaggle.com/danofer
 
 ## Results and Assessment
 
-The final accuracy of the model was 84%, an improvement of 36% in comparison with the benchmark model. What's more, the addition of the 3 topic modeling algorithms improved the accuract of the classifier by approximately 8%.
+The final accuracy of the model was 84%, an improvement of 36% in comparison with the benchmark model. What's more, the addition of the 3 topic modeling algorithms improved the accuracy of the classifier by approximately 8%.
 
-The model was then tested on four article excerpts that are not part of DBPedia. Admittedly, the articles chosen were encyclopedic and had fairly clear, unambiguous topics; nevertheless, the model performed well in classifying them..
+The model was then tested on four article excerpts that are not part of DBPedia. Admittedly, the articles chosen were encyclopedic and had fairly clear, unambiguous topics; nevertheless, the model performed well in classifying them.
 
