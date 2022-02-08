@@ -1,7 +1,7 @@
 # Text Classification and Topic Modeling of the DBpedia Classes dataset
 ## Project Overview
 
-This project builds a machine learning model that applies a classification label to textual data, which isinteded to represent the main topic of that data.
+This project builds a machine learning model that applies a classification label to textual data, which is inteded to represent the main topic of that data.
 
 ## Dataset
 
