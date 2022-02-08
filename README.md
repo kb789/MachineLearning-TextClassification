@@ -1,7 +1,7 @@
 # A Machine Learning Model for Text Classification and Topic Modeling
 ## Project Overview
 
-This project builds a machine learning model that applies a classification label to textual data, which is intended to represent the main topic of that data.
+This project builds a machine learning model that automatically applies a classification label to textual data, which is intended to represent the main topic of that data.
 
 ## Dataset
 
